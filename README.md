@@ -1,8 +1,20 @@
-<h1 align="center">Sempre Voluntarios</h1> 
+
+<h1 align="center">
+  <img alt="Lar das Crianças Luiz Hermani" title="#NextLevelWeek" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/309435031_396713075989316_8069067162430689767_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ZlfnIa2VraUAX_XkrUW&_nc_ht=scontent-gru2-2.xx&oh=00_AfCI3nhodO01lmLbqCjLRvDLxPKIMHUDYchsDdG26bWVsw&oe=647284CF"/>
+</h1>
+
+<h1 align="center">Seja um Voluntario</h1> 
 <h4 align="center">https://sjprog.github.io/projeto-lclh/</h4> 
 
 <p align="center">Trabalho Voluntario realizado a mais de 30 anos, venha fazer parte desse projeto.</p>
 <p align="center">Basta <a href="https://sjprog.github.io/projeto-lclh/">Clicar aqui</a> e se escrever, logo um colaborador entrará em contato.</p>
+
+<hr>
+
+<h2 align="center"> Observações sobre ser voluntario</h2>
+<p align="center">Não se preocupe, ninguem irá ficar te ligando ou cobrando sobre qualquer tipo de compromisso, somos muito tecnicos e discretos, o importante é ajudar. </p>
+<p align="center">Assim que se inscrever será redirecionado ao grupo dos voluntarios, desde já seja ,seja muito bem, vindo!!! </p>
+
 <hr>
 
 <h1 align="center">
@@ -33,3 +45,6 @@
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+
+
