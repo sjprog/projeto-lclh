@@ -47,4 +47,17 @@
 </p>
 
 
+### Autor
+---
+
+<a href="https://www.linkedin.com/in/sidneysiqueira/">
+ <img style="border-radius: 50%;" src="https://drive.google.com/file/d/1E6o7cigh3XmtFZDqF-iSQaJKC-2UQ7HC/view?usp=drive_link" width="150px;" alt="Sidney Siqueira"/>
+ <br />
+ <sub><b>Sidney Siqueira</b></sub></a> <a href="https://www.linkedin.com/in/sidneysiqueira/" title="Linkedin">🚀</a>
+
+
+Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
